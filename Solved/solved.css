@@ -1,0 +1,55 @@
+article {
+    max-width: 500px;
+    display: inline-block;
+    padding: 15px;
+    background:rgba(83, 74, 57, 0.5);
+    border:rgb(112, 95, 72) solid 4px;
+    text-align: left;
+}
+
+.big-box {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    vertical-align: top;
+    background: rgb(57, 73, 83);
+    border-radius: 15px;
+}
+
+body {
+    font-family: sans-serif;
+    text-align:center;
+    color: white;
+    background:rgb(13, 12, 15);
+    padding: 0;
+    margin: 0;
+    min-height: 100%;
+
+    font-size: 18px;
+}
+
+header {
+    background:rgba(57, 75, 83, 0.5);
+    display: block;
+    border-top:rgb(59, 93, 104) solid 4px;
+    border-bottom:rgb(59, 93, 104) solid 4px;
+    margin-bottom: 15px;
+}
+
+footer {
+    background: rgb(59, 93, 104);
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+img {
+    border-radius: 15px;
+    width: 200px;
+}
+
+#image-caption {
+    max-width: 200px;
+}
