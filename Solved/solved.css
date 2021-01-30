@@ -50,6 +50,6 @@ img {
     width: 200px;
 }
 
-figcaption {
+#image-caption {
     max-width: 200px;
 }
